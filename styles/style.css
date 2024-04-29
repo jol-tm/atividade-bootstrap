@@ -1,0 +1,46 @@
+:root {
+    --c1: white;
+    --c2: black;
+    --tdur: .3s;
+}
+
+body {
+    font-size: 1.1em;
+}
+
+.logo {
+    transition: var(--tdur);
+    margin: .5em;
+}
+.logo:hover {
+    scale: 1.3;
+    rotate: -10deg;
+}
+
+main {
+    margin-top: 5em;
+}
+
+.card-img-top {
+    transition: var(--tdur);
+}
+.card-img-top:hover {
+    box-shadow: 0 0 1em;
+}
+
+.c-margin {
+    margin: auto;
+    margin-top: 5em;
+    transition: var(--tdur);
+}
+.card:hover {
+    scale: 1.05;
+}
+
+p {
+    text-align: justify;
+}
+
+.carousel {
+    margin-bottom: 5em;
+}
