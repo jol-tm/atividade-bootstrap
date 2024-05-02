@@ -5,7 +5,7 @@
 }
 
 body {
-    font-size: 1.1em;
+    font-size: 1em;
 }
 
 .logo {
@@ -17,8 +17,10 @@ body {
     rotate: -10deg;
 }
 
-main {
-    margin-top: 5em;
+h1 {
+    text-align: center;
+    margin-top: .5em;
+    margin-bottom: 1em;
 }
 
 .card-img-top {
@@ -30,7 +32,7 @@ main {
 
 .c-margin {
     margin: auto;
-    margin-top: 5em;
+    margin-bottom: 1em;
     transition: var(--tdur);
 }
 .card:hover {
@@ -42,5 +44,5 @@ p {
 }
 
 .carousel {
-    margin-bottom: 5em;
+    margin-bottom: 1em;
 }
