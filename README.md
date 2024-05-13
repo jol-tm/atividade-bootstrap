@@ -1,2 +1,3 @@
 # Atividade Bootstrap
-Uma página sobre meus jogos favoritos desenvolvida utilizando bootstrap.
+Um site sobre meus jogos favoritos desenvolvido utilizando bootstrap.
+Link: https://jol-tm.github.io/atividade-bootstrap/
